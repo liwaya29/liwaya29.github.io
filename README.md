@@ -3,6 +3,9 @@ Hi I'm Liwaya, an Electronics Engineering student at CIT.\
 This repository is under construction.
 
 
-| foo   bar |
-| --- | --- |
-| baz | bim |
+### 1st semester 2021
+
+* [CHEM131](https://github.com/liwaya29/CHEM131/tree/master)
+* Item 2
+* Item 2a
+* Item 2b
