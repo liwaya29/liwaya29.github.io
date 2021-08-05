@@ -2,6 +2,7 @@
 Hi I'm Liwaya, an Electronics Engineering student at CIT.\
 This repository is under construction.
 
-| foo | bar |
+
+| foo   bar |
 | --- | --- |
 | baz | bim |
