@@ -9,4 +9,5 @@ This repository is under construction.
 * [CHEM181](https://github.com/liwaya29/CHEM181) 
 * [ECE181](https://github.com/liwaya29/ECE181) 
 * [ES083](https://github.com/liwaya29/ES083)
-* Item 2b
+* [MATHO31](https://github.com/liwaya29/MATH031)
+
